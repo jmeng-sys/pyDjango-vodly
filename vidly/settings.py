@@ -25,7 +25,9 @@ SECRET_KEY = 'xax$8=wy+e1ke+3)1@l!5!$iy49q+hv=p_bvuh*fg6xewv!a!n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'radiant-atoll-70549.herokuapp.com'
+]
 
 
 # Application definition
